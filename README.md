@@ -1,7 +1,7 @@
 # 💌 Katkout Gift Website
 
 This is a special website gift I made for someone I love 🐣  
-It plays A voice frome my heart — *Dandelions by Ruth B* — and shows a personal message with a sweet photo.
+It plays **A voice from my heart — _Dandelions_ by Ruth B** — and shows a personal message with a sweet photo.
 
 The goal of this project is to express love through a custom, romantic web experience 💖
 
@@ -9,10 +9,10 @@ The goal of this project is to express love through a custom, romantic web exper
 
 ## 🌸 Features
 
-- 🎶 Plays "Dandelions" when you click the button
-- 💌 Shows a heartfelt personal message
-- 🖼️ Displays a custom romantic image
-- 🎁 Designed as a surprise for my partner
+- 🎶 Plays "Dandelions" when you click the button  
+- 💌 Displays a heartfelt personal message  
+- 🖼️ Shows a custom romantic image  
+- 🎁 Designed as a surprise for my partner  
 
 ---
 
@@ -25,10 +25,14 @@ Click here to visit the live version:
 
 ## 💭 Personal Note
 
-> “احبك قد البحر وسمكاتو ، واحبك قد السما ونجومها”  
-> You’re everything to me 🤍
-> ## final footer text
- at the very bottom of the page:
- your loving partner until forever,
- from the heart that chose you
- your future wife
+> أحبك قد البحر وسمكاته، وأحبك قد السما ونجومها  
+> You’re everything to me 🤍  
+
+---
+
+## 📝 Final Footer Text (on the website)
+
+> At the very bottom of the page:  
+> *Your loving partner until forever,*  
+> *From the heart that chose you,*  
+> *Your future wife 🤍*
