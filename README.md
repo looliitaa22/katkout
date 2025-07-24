@@ -28,7 +28,7 @@ Click here to visit the live version:
 > “احبك قد البحر وسمكاتو ، واحبك قد السما ونجومها”  
 > You’re everything to me 🤍
 > ## final footer text
-> at the very bottom of the page:
-> your loving partner until forever,
-> from the heart that chose you
-> your future wife
+ at the very bottom of the page:
+ your loving partner until forever,
+ from the heart that chose you
+ your future wife
